@@ -1,0 +1,13 @@
+﻿node_modules/
+dist/
+build/
+.next/
+.env.*.local
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+*.tsbuildinfo
+config.bat
+node_modules
